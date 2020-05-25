@@ -1,0 +1,4 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+taskclass.cpp:7:6:void TaskClass::start(MRF*)	48	static
+taskclass.cpp:16:6:void TaskClass::taskLoopMember(void*)	16	static
+taskclass.cpp:26:6:static void TaskClass::callLoopFunction(const void*)	24	static
